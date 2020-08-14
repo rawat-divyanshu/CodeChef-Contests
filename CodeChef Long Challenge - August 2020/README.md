@@ -4,4 +4,4 @@
 
 ### Problem : 3 - [Another Card Game Problem](https://www.codechef.com/AUG20B/problems/CRDGAME3) - [My Solution](https://github.com/rawat-divyanshu/CodeChef-Contests/blob/master/CodeChef%20Long%20Challenge%20-%20August%202020/Another%20Card%20Game%20Problem.cpp)
 
-### Problem : 4 - [Smallest KMP](https://www.codechef.com/AUG20B/problems/SKMP) - [My Solution]()
+### Problem : 4 - [Smallest KMP](https://www.codechef.com/AUG20B/problems/SKMP) - [My Solution](https://github.com/rawat-divyanshu/CodeChef-Contests/blob/master/CodeChef%20Long%20Challenge%20-%20August%202020/Smallest%20KMP.cpp)
